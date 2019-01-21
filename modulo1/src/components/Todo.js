@@ -19,3 +19,5 @@ Todo.propTypes = {
 };
 
 const styles = StyleSheet.create({});
+
+export default Todo;
