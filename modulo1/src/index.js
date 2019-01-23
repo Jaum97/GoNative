@@ -1,6 +1,8 @@
 import React, { Component } from "react";
 import { StyleSheet, Text, View } from "react-native";
 
+import "./config/ReactotronConfig";
+
 export default class App extends Component {
   state = {
     user: "banana cowboy"
