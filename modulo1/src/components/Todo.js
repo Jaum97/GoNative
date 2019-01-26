@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { View, Text, StyleSheet } from 'react-native';
+import { View, Text } from 'react-native';
 
 import PropTypes from 'prop-types';
 
@@ -18,6 +18,6 @@ Todo.propTypes = {
   title: PropTypes.string,
 };
 
-const styles = StyleSheet.create({});
+// const styles = StyleSheet.create({});
 
 export default Todo;
