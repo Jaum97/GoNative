@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
 import './config/ReactotronConfig';
+import './config/DevToolsConfig';
 
 const $bgColor = '#f5f5f5';
 const styles = StyleSheet.create({
